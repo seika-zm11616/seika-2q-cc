@@ -1,5 +1,11 @@
 # seika-2q-cc
 
+## 開発の準備
+
+```
+npm install
+```
+
 ## 開発の開始の仕方
 
 1.　Webpackの実行
